@@ -89,16 +89,14 @@ Outputs:
 
 From `dist/`:
 
-- `StarBridgeHomeAgent_dark.exe` (recommended)
-- `StarBridgeHomeAgent_v2.exe`
-- `StarBridgeHomeAgent.exe`
+- `StarBridge.exe` (recommended main app)
 - `StarBridgeCli.exe`
 - `StarBridgeConfigTool.exe`
 
 Run:
 
 ```powershell
-.\dist\StarBridgeHomeAgent_dark.exe
+.\dist\StarBridge.exe
 ```
 
 ## Local End-to-End Test Status
