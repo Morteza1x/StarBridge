@@ -116,9 +116,17 @@ You are responsible for local laws, provider policy, and workplace policy.
 ## Persian Summary (خلاصه فارسی)
 
 - این پروژه یک تونل شخصی است تا ترافیک از مسیر خانه عبور کند.
-- برنامه‌ی GUI اصلی (`StarBridgeHomeAgent_dark.exe`) هم‌زمان:
+- برنامه‌ی GUI اصلی (`StarBridge.exe`) هم‌زمان:
   - Agent را Start/Stop می‌کند
   - کانفیگ می‌سازد
   - لیست کانفیگ می‌دهد و URI کپی می‌کند
   - وضعیت کارت‌های شبکه و تست مسیر را نشان می‌دهد
 - برای استفاده واقعی، TLS را فعال کنید.
+
+## Donate
+
+- ERC20: `0x014b7603D81869Cb95200E3a5274d00ac4d0d765`
+
+## Telegram
+
+- https://t.me/StarBridgex
